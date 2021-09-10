@@ -9,5 +9,15 @@
     "python.linting.pylintEnabled": true,
     "python.linting.enabled": true,
     "editor.formatOnSave": true,
-    "git.autofetch": true
+    "git.autofetch": true,
+    "code-runner.executerMap": {
+        "python": "pythonPath -u $fullFileName"
+    },
+    "code-runner.clearPreviousOutput": true,
+    "code-runner.showExecutionMessage": false,
+    "code-runner.ignoreSelection": true,
+    "code-runner.saveFileBeforeRun": true,
+    "[plaintext]": {
+        "editor.quickSuggestions": false
+    }
 }
