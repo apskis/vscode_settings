@@ -4,14 +4,10 @@
     "workbench.iconTheme": "ayu",
     "workbench.settings.editor": "json",
     "workbench.settings.openDefaultSettings": true,
-    "editor.fontSize": 22,
-    "editor.fontWeight": "500",
-    "editor.fontFamily": "Source Code Pro",
+    "editor.fontSize": 16,
     "editor.formatOnSave": true,
-    "debug.console.fontFamily": "Source Code Pro",
-    "debug.console.fontSize": 22,
-    "terminal.integrated.fontSize": 22,
-    "terminal.integrated.fontWeight": "600",
+    "debug.console.fontSize": 16,
+    "terminal.integrated.fontSize": 16,
     "python.pythonPath": "C:\\Users\\AprilParker\\AppData\\Local\\Microsoft\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\\python.exe",
     "python.formatting.provider": "black",
     "python.linting.pylintEnabled": true,
@@ -26,5 +22,5 @@
     "code-runner.saveFileBeforeRun": true,
     "[plaintext]": {
         "editor.quickSuggestions": false
-    }
+    },
 }
