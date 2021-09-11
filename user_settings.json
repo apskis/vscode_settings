@@ -1,5 +1,5 @@
 {
-    "python.defaultInterpreterPath": "C:\\Users\\AprilParker\\AppData\\Local\\Microsoft\\WindowsApps\\python3.9.exe",
+    "python.defaultInterpreterPath": "C:\\Python39",
     "workbench.colorTheme": "Predawn",
     "workbench.iconTheme": "ayu",
     "workbench.settings.editor": "json",
