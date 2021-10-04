@@ -1,0 +1,26 @@
+## USER SETTINGS ##
+
+__Open settings JSON__
+- Click F1 to open the command panel
+- Type "open settings"
+- You are presented with two options, choose "Open Settings (JSON)"
+
+__Open Default Settings JSON__
+ - Click F1 to open the command panel
+ - Type "open settings"
+ - You are presented with two options, choose "Open Default Settings (JSON)"
+ 
+ __Swtich settings from UI to Json by default__
+ - Search Ctrl + F in "defaultSettings.json" for  "workbench.settings.editor": "ui",
+ - Copy "workbench.settings.editor": "ui" to the settings.json and change "ui" to "json"
+  
+__Open default settings when I open user settings everytime__
+ - Search Ctrl + F for "workbench.settings.openDefaultSettings": false,
+ - Copy to settings.json and change value to true
+   
+__Set Python version__
+ - Search Ctrl + F for "python.pythonPath": "python",
+ - Copy to settings.json and change value to the exact path for the python installation you want.
+   
+   
+   
